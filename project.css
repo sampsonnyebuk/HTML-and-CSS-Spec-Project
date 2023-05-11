@@ -1,0 +1,58 @@
+.pic {
+    width: 4%;
+    height: 15%;
+}
+
+.pics {
+    width: 4%;
+    height: 15%;
+}
+
+.pix {
+    width: 100%;
+    height: 20%;
+}
+.logo {
+    width: 7%;
+}
+
+.one {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 20px;
+}
+
+h1 {
+    border: 0cm;
+font-size: 40px;
+}
+
+.three {
+    font-size: 35px;
+}
+
+.four {
+display: flex;
+}
+.social {
+    justify-content: space-around;
+}
+
+.six {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+
+}
+
+.eight {
+    display: flex;
+    justify-content: space-between;
+}
+
+.eightb {
+   flex-direction: row;
+}
